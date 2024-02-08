@@ -16,6 +16,8 @@
 		D38BA5F62A31635100B53136 /* CalculadoraUIKITTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA5F52A31635100B53136 /* CalculadoraUIKITTests.swift */; };
 		D38BA6002A31635100B53136 /* CalculadoraUIKITUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA5FF2A31635100B53136 /* CalculadoraUIKITUITests.swift */; };
 		D38BA6022A31635100B53136 /* CalculadoraUIKITUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA6012A31635100B53136 /* CalculadoraUIKITUITestsLaunchTests.swift */; };
+		D38BA60F2A3164B600B53136 /* ButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA60E2A3164B600B53136 /* ButtonsView.swift */; };
+		D3A95A662B72F0E9000D2A94 /* ButtonsView+UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3A95A652B72F0E9000D2A94 /* ButtonsView+UI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		D38BA5FB2A31635100B53136 /* CalculadoraUIKITUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculadoraUIKITUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D38BA5FF2A31635100B53136 /* CalculadoraUIKITUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraUIKITUITests.swift; sourceTree = "<group>"; };
 		D38BA6012A31635100B53136 /* CalculadoraUIKITUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraUIKITUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D38BA60E2A3164B600B53136 /* ButtonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsView.swift; sourceTree = "<group>"; };
+		D3A95A652B72F0E9000D2A94 /* ButtonsView+UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ButtonsView+UI.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				D38BA5E72A31635100B53136 /* Assets.xcassets */,
 				D38BA5E92A31635100B53136 /* LaunchScreen.storyboard */,
 				D38BA5EC2A31635100B53136 /* Info.plist */,
+				D38BA60E2A3164B600B53136 /* ButtonsView.swift */,
+				D3A95A652B72F0E9000D2A94 /* ButtonsView+UI.swift */,
 			);
 			path = CalculadoraUIKIT;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			files = (
 				D38BA5E32A31635000B53136 /* ViewController.swift in Sources */,
 				D38BA5DF2A31635000B53136 /* AppDelegate.swift in Sources */,
+				D3A95A662B72F0E9000D2A94 /* ButtonsView+UI.swift in Sources */,
+				D38BA60F2A3164B600B53136 /* ButtonsView.swift in Sources */,
 				D38BA5E12A31635000B53136 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

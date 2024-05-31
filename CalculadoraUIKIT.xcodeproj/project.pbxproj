@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D329918C2C09590600DCEA51 /* ButtonsLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = D329918B2C09590600DCEA51 /* ButtonsLogic.swift */; };
 		D38BA5DF2A31635000B53136 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA5DE2A31635000B53136 /* AppDelegate.swift */; };
 		D38BA5E12A31635000B53136 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA5E02A31635000B53136 /* SceneDelegate.swift */; };
 		D38BA5E32A31635000B53136 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38BA5E22A31635000B53136 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D329918B2C09590600DCEA51 /* ButtonsLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsLogic.swift; sourceTree = "<group>"; };
 		D38BA5DB2A31635000B53136 /* CalculadoraUIKIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculadoraUIKIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D38BA5DE2A31635000B53136 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D38BA5E02A31635000B53136 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				D38BA5EC2A31635100B53136 /* Info.plist */,
 				D38BA60E2A3164B600B53136 /* ButtonsView.swift */,
 				D3A95A652B72F0E9000D2A94 /* ButtonsView+UI.swift */,
+				D329918B2C09590600DCEA51 /* ButtonsLogic.swift */,
 			);
 			path = CalculadoraUIKIT;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			files = (
 				D38BA5E32A31635000B53136 /* ViewController.swift in Sources */,
 				D38BA5DF2A31635000B53136 /* AppDelegate.swift in Sources */,
+				D329918C2C09590600DCEA51 /* ButtonsLogic.swift in Sources */,
 				D3A95A662B72F0E9000D2A94 /* ButtonsView+UI.swift in Sources */,
 				D38BA60F2A3164B600B53136 /* ButtonsView.swift in Sources */,
 				D38BA5E12A31635000B53136 /* SceneDelegate.swift in Sources */,
